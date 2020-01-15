@@ -25,7 +25,7 @@
 	<system:String x:Key="Settings.General.RunAtBoot">Jalankan program secara otomatis, ketika Windows mulai</system:String>
 	<system:String x:Key="Settings.General.RunAtConnect">Jalankan File Explorer ketika drive sudah terkoneksi</system:String>
 
-	<system:String x:Key="Notice">Notice</system:String>
+	<system:String x:Key="Notice">Pemberitahuan</system:String>
 	<system:String x:Key="AddDrive">Tambahkan</system:String>
 	<system:String x:Key="AddDrive.Header">Drive Baru</system:String>
 	<system:String x:Key="AddDrive.Storage">Penyimpanan</system:String>
@@ -177,7 +177,7 @@
 	<system:String x:Key="NotifyIcon.Exit">Keluar</system:String>
 	<system:String x:Key="NotifyIcon.Exit.Message">Apakah anda yakin ingin memutuskan semua koneksi sebelum keluar?</system:String>
 
-	<system:String x:Key="State.Space.Format">{0} free of {1} {2}</system:String>
+	<system:String x:Key="State.Space.Format">{0} dari ruang bebas {1} {2}</system:String>
 	<system:String x:Key="State.Space.Used">digunakan</system:String>
 
 	<system:String x:Key="Brand.Synology">Synology</system:String>
